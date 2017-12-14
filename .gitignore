@@ -1,0 +1,11 @@
+.vs
+*.user
+Release
+*.o
+*.obj
+git-read
+config.log
+config.status
+gitread.o
+Makefile
+autom4te.cache
